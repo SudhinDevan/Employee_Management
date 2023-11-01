@@ -1,0 +1,11 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-image: url('../public/wallpaperflare.com_wallpaper\ \(2\).jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
