@@ -55,5 +55,7 @@ npm start
 
 The application will be accessible at http://localhost:3000.
 </details>
+
+
 ### Contributing
 We welcome contributions! If you'd like to contribute to this project, contact me through sudhindevan@gmail.com
